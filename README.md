@@ -13,5 +13,5 @@
 - Estava sem ideias de como treinar e resolvi criar este projeto em comemoração ao ano novo!
 - A contagem regressiva tem como base o horário que está em seu dispositivo, então pode haver algúm atraso.
 
-#### Este projeto se encontra hospedado em meu website.
-<p><a href="https://dlzzdev.com/countdown/" target="_blank" rel="noopener">Clique aqui para visualizar!</p>
+#### Este projeto está hospedado aqui no Github..
+<p><a href="https://dlzzdev.github.io/countdown-year/" target="_blank" rel="noopener">Clique aqui para visualizar!</p>
